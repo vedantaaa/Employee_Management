@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "Employee Management",
+    "version": "1.0.0"
+  },
+
+  "api": {
+    "baseUrl": "https://k8s-api.company.com",
+    "timeout": 30000
+  },
+
+  "pagination": {
+    "defaultPageSize": 10
+  },
+
+  "localization": {
+    "defaultLanguage": "en"
+  }
+}
