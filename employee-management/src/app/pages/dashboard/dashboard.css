@@ -1,0 +1,6 @@
+.dashboard{
+    padding: var(--spacing-lg);
+}
+.dashboard h1{
+    margin-bottom: var(--spacing-sm);
+}
